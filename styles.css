@@ -1,0 +1,50 @@
+
+body {
+	margin: 0%;
+	background: #f5f5dc;
+	font-family: 'McLaren', sans-serif;
+	font-weight: 300%;
+
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.content {
+	
+}
+
+}
+
+header {
+	background: #80000;
+}
+
+header:; after {
+	content: "";
+	display: table;
+	clear: both;
+
+}
+
+header h1{
+	font-family: Stardos Stencil;
+	float: left;
+
+}
+
+nav {
+	float: right;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 70px;
+}
